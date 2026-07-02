@@ -1,6 +1,6 @@
 {
   "$schema": "./source/schema.json",
-  "family_name": "Maple Mono SL NF CN",
+  "family_name": "Maple Mono",
   "use_hinted": false,
   "pool_size": 4,
   "enable_ligature": false,
@@ -12,7 +12,7 @@
     "thin": 100,
     "extralight": 200,
     "light": 300,
-    "regular": 400,
+    "regular": 350,
     "medium": 500,
     "semibold": 600,
     "bold": 700,
